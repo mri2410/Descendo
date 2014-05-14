@@ -12,20 +12,25 @@ Just download the zip file by clicking on the "Download zip" on the right. After
 
 $ cd Downloads/Descendo-master/
 
-The program is written in Qt environment using C++ language. So type in the terminal:
+The program is written in Qt environment using C++ language. So type the following command in the terminal first:
 
 $ qmake -o Makefile Descendo.pro
-
-REVISED:
-make sure there is no Makefile initially if so delete with:
-rm -r Makefile
 
 
 Then type:
 
+$ make Descendo
+
 $ ./Descendo
 
-And the program will start. Enjoy!
+
+REVISED:
+make sure there is no Makefile initially if so delete with:
+
+rm -r Makefile
+
+
+The program should start now. Enjoy!
 
 
 ## Unix philosophy:
