@@ -9,6 +9,7 @@ The unique feature of this project is the visual text files we have implemented 
 ## How to run:
 
 Just download the zip file by clicking on the "Download zip" on the right. After downloading, you can use terminal/shell to run it. Just go to desired folder. If it is in the "Downloads" folder, you need to type:
+
 $ cd Downloads/Descendo-master/
 
 The program is written in Qt environment using C++ language. So type in the terminal:
