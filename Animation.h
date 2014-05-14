@@ -11,7 +11,7 @@
 
 using namespace std;
 
-class Animation
+class Animation // class for text animation
 {
 private:
     string line1, line2;
