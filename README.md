@@ -20,9 +20,6 @@ REVISED:
 make sure there is no Makefile initially if so delete with:
 rm -r Makefile
 
-then run following lines:
-
-qmake && make
 
 Then type:
 
