@@ -12,9 +12,11 @@ Just download the zip file by clicking on the "Download zip" on the right. After
 $ cd Downloads/Descendo-master/
 
 The program is written in Qt environment using C++ language. So type in the terminal:
+
 $ qmake -o Makefile Descendo.pro
 
 Then type:
+
 $ ./Descendo
 
 And the program will start. Enjoy!
