@@ -14,7 +14,7 @@ $ cd Downloads/Descendo-master/
 
 The program is written in Qt environment using C++ language. So type the following command in the terminal first:
 
-$ qmake -o Makefile Descendo.pro
+$ qmake -o Makefile
 
 
 Then type:
