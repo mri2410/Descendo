@@ -1,7 +1,7 @@
 #include "Battle.h"
 #include "Animation.h"
 
-int main(int argc, char *argv)
+int main(int argc, char *argv[])
 {
     // game name
     images.startingGameNameImage();
